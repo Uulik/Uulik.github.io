@@ -4,23 +4,23 @@ const tabsItems = document.querySelectorAll(".tabs__item");
 tabsBtn.forEach(onTabClick);
 
 function onTabClick(item) {
-    item.addEventListener("click", function () {
+    item.addEventListener("click", function() {
         console.log("clicked")
-        let currentBtn = item;
-        let tabId = currentBtn.getAttribute("data-tab");
-        let currentTab = document.querySelector(tabId);
+            let currentBtn = item;
+            let tabId = currentBtn.getAttribute("data-tab");
+            let currentTab = document.querySelector(tabId);
 
-        if (!currentBtn.classList.contains("active")) {
-            tabsBtn.forEach(function (item) {
-                item.classList.remove("active");
-            });
+        if( ! currentBtn.classList.contains("active")) {
+              tabsBtn.forEach(function(item) {
+            item.classList.remove("active");
+        });
 
-            tabsItems.forEach(function (item) {
-                item.classList.remove("active");
-            });
+        tabsItems.forEach(function(item) {
+            item.classList.remove("active");
+        });
 
-            currentBtn.classList.add("active");
-            currentTab.classList.add("active");
+        currentBtn.classList.add("active");
+        currentTab.classList.add("active");
         }
     });
 }
