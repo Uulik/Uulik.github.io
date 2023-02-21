@@ -51,30 +51,70 @@ Hello, My name is Ulan.I am 1st year student. If you want to see my pics just cl
 
 <br> 
 <br>
-	<font color="white">
+<font color="white">
 <center>Would you like to join our quest?</center>
 <button class="joinBtn">Confirm</button>
 </font>
 <center>
 <style>
     .joinBtn {
-    display: block;
     width: 10em;
     height: 5ex;
-    background-color: white;
+    background-color: gold;
     border: 2px solid firebrick;
     border-radius: 10px;
     font-weight: bold;
     color: black;
     cursor: pointer;
-    
+    display: block;
 }
 
 .joinBtn:hover {
     background-color: bisque;
 }
-	</style>
-	</center>
+    </style>
+</center>
+<div class="tabs">
+        <div class="tabs__nav">
+            <button class="tabs__nav-btn" type="button" data-tab="#tab_1">Games</button>
+            <button class="tabs__nav-btn" type="button" data-tab="#tab_2">Music</button>
+            <button class="tabs__nav-btn" type="button" data-tab="#tab_3">Anime and films</button>
+        </div>
+        <div class="tabs__content">
+            <div class="tabs__item" id="tab_1">
+                <p>Games, which i like to play<br>
+                <ol>
+                    <li>CS GO</li>
+                    <li>Minecraft</li>
+                    <li>FIFA</li>
+                    <li>The Spike</li>
+                </ol> </p>
+            </div>
+
+            <div class="tabs__item" id="tab_2">
+                <p>Songs which i like to listen<br>
+                <ol>
+                     <li><a href="https://www.youtube.com/watch?v=wI4BJ0qoKYg&ab_channel=mewtoz">Glass Animals Megamix Complete MAP</a></li>
+                    <li><a href="https://www.youtube.com/watch?v=DGNa86POIb8&ab_channel=jose">BreezBlocks x Take a Slice</a></li>
+                    <li><a href="https://www.youtube.com/watch?v=NzWyLz-D1CU&ab_channel=GONE.Fludd">Chill</a></li>
+                    <li><a href="https://www.youtube.com/watch?v=wmIlLFyJpWQ&ab_channel=Evelin">Зелень</a></li>
+                </ol> </p>
+            </div>
+
+            <div class="tabs__item" id="tab_3">
+                <p>Anime and Films, which I love<br>
+                <ol>
+                    <li>Haikyuu</li>
+                    <li>Hunter Х Hunter</li>
+                    <li>Demon slayer</li>
+                    <li>Green Book</li>
+                    <li>Hacksaw Ridge</li>
+                </ol> </p>
+            </div>
+        </div>
+    </div>
+
+    <script src="app.js"></script>
 </body>
 
 
