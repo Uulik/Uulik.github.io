@@ -1,0 +1,46 @@
+.tabs {
+    max-width: 600px;
+    margin: 50px auto;
+}
+
+.tabs__nav {
+    display: flex;
+}
+
+.tabs__nav-btn {
+    padding: 15px 30px;
+
+    font-size: 20px;
+
+    background-color: #f5f5f5;
+    border: 0;
+    border-right: 1px solid #ddd;
+    cursor: pointer;
+}
+
+.tabs__nav-btn:last-child {
+    border-right: none;
+}
+
+.tabs__nav-btn:hover {
+    background-color: #ddd;
+}
+
+.tabs__nav-btn.active {
+    background-color: #14c1b8;
+    border-right-color: #14c1b8;
+    color: whitesmoke;
+}
+
+.tabs__content {
+    padding: 30px;
+    background-color: #FFFFFF;
+}
+
+.tabs__item {
+    display: none;
+}
+
+.tabs__item.active {
+    display: block;
+}
