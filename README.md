@@ -1,3 +1,3 @@
-# My project name: Aibek's Project
+# My project name: Uulik.github.io
 
-### The link to Figma: [https://www.figma.com/file/WDhwMpZ9TPYa4jJ78zZQpp/SerikUlanProject?node-id=1%3A3&t=N9ab1ARYqpcX2Mer-1](https://www.figma.com/file/M4sh4y1Xz3V5YRxdSbeC56/Aibek's-Project?node-id=1%3A3&t=wgXLIuCkuSbgA5qx-1)
+### The link to Figma: https://www.figma.com/file/WDhwMpZ9TPYa4jJ78zZQpp/Uulik.github.io?node-id=1%3A3&t=QnSbHuvd2VlKW376-1
