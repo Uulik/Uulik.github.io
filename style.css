@@ -1,46 +1,301 @@
-.tabs {
-    max-width: 600px;
-    margin: 50px auto;
+.component-1 {
+  padding: 793.51px 0.33px 488px 0;
 }
-
-.tabs__nav {
-    display: flex;
+.slide-169-1 {
+  width: calc(100% - 41.21px);
+  height: calc(100% - 145.15px);
+  background-color: rgba(255, 255, 255, 1);
+  padding: 17.5px 33.21px 127.65px 8px;
+  position: relative;
 }
-
-.tabs__nav-btn {
-    padding: 15px 30px;
-
-    font-size: 20px;
-
-    background-color: #f5f5f5;
-    border: 0;
-    border-right: 1px solid #ddd;
-    cursor: pointer;
+.flex-wrapper-one {
+  background-color: var(--dim-gray);
+  padding: 26px 790px 32px 148px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  position: absolute;
+  left: 0;
+  top: 491px;
 }
-
-.tabs__nav-btn:last-child {
-    border-right: none;
+.waiter-green-villa-4-star-hotel {
+  height: 89px;
+  width: 343px;
+  font-family: "Source Sans Pro";
+  font-size: 32px;
+  font-weight: 400;
+  line-height: normal;
+  color: rgba(255, 255, 255, 1);
+  display: flex;
+  margin-bottom: 1px;
 }
-
-.tabs__nav-btn:hover {
-    background-color: #ddd;
+.i-developed-my-communication-skills-whi {
+  height: 107px;
+  width: 313px;
+  font-family: "Source Sans Pro";
+  font-size: 16px;
+  font-weight: 400;
+  line-height: normal;
+  color: rgba(255, 255, 255, 1);
+  display: flex;
+  margin-bottom: 112px;
 }
-
-.tabs__nav-btn.active {
-    background-color: #14c1b8;
-    border-right-color: #14c1b8;
-    color: whitesmoke;
+.relative-wrapper-one {
+  position: relative;
 }
-
-.tabs__content {
-    padding: 30px;
-    background-color: #FFFFFF;
+.conducted-a-lot-of-additional-lessons-fo {
+  height: 124px;
+  width: 323px;
+  font-family: "Source Sans Pro";
+  font-size: 16px;
+  font-weight: 400;
+  line-height: normal;
+  color: rgba(255, 255, 255, 1);
+  display: flex;
+  position: relative;
 }
-
-.tabs__item {
-    display: none;
+.extracurricular-teacher-physics {
+  height: 89px;
+  width: 343px;
+  font-family: "Source Sans Pro";
+  font-size: 32px;
+  font-weight: 400;
+  line-height: normal;
+  color: rgba(255, 255, 255, 1);
+  display: flex;
+  position: absolute;
+  right: -20px;
+  top: -86px;
 }
-
-.tabs__item.active {
-    display: block;
+.flex-wrapper-two {
+  background-color: var(--black);
+  padding: 183px 759px 46px 157px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  position: absolute;
+  left: 0;
+  top: 0;
+}
+.programming-languages {
+  font-family: "Source Sans Pro";
+  font-size: 32px;
+  font-weight: 400;
+  line-height: normal;
+  color: rgba(255, 255, 255, 1);
+}
+.s-java-script-htmlcss-for-now-that {
+  max-width: 365px;
+  font-family: "Source Sans Pro";
+  font-size: 16px;
+  font-weight: 400;
+  line-height: normal;
+  color: rgba(255, 255, 255, 1);
+  margin-bottom: 82px;
+}
+.soft-skills {
+  height: 40px;
+  width: 140px;
+  font-family: "Source Sans Pro";
+  font-size: 32px;
+  font-weight: 400;
+  line-height: normal;
+  color: rgba(255, 255, 255, 1);
+  display: flex;
+}
+.communication-team-work-leadership-and {
+  max-width: 186px;
+  font-family: "Source Sans Pro";
+  font-size: 16px;
+  font-weight: 400;
+  line-height: normal;
+  color: rgba(255, 255, 255, 1);
+}
+.vector-46 {
+  width: 1239.79px;
+  height: 837.85px;
+  position: relative;
+}
+.frame {
+  width: 1.87%;
+  height: 1.06%;
+  position: absolute;
+  right: 393.33px;
+  top: 628.51px;
+}
+.slide-169-2 {
+  width: 99.97%;
+  height: 21.73%;
+  background-color: rgba(255, 255, 255, 1);
+  position: absolute;
+  left: 0;
+  bottom: 0;
+}
+.my-skills-work-experience {
+  width: 41.52%;
+  height: 2.56%;
+  color: rgba(255, 255, 255, 1);
+  position: absolute;
+  right: 337.33px;
+  top: 833.51px;
+  font-family: var(--m-plus-1-40-regular-family);
+  font-size: var(--m-plus-1-40-regular-size);
+  font-weight: var(--m-plus-1-40-regular-weight);
+  line-height: var(--m-plus-1-40-regular-line-height);
+}
+.vector-45 {
+  width: 40.1%;
+  height: 35.14%;
+  position: absolute;
+  right: 0;
+  top: 0;
+}
+.flex-wrapper-three {
+  background-color: rgba(255, 255, 255, 1);
+  padding: 0 512px 0 0;
+  display: flex;
+  align-items: flex-start;
+  position: absolute;
+  left: 0;
+  top: 4.51px;
+}
+.vector-43 {
+  width: 34.07%;
+  height: 44.57%;
+  position: absolute;
+  left: 375.57px;
+  top: 176.36px;
+}
+.flex-wrapper-four {
+  background-size: 100% 100%;
+  background-position: center;
+  background-image: url("https://static.overlay-tech.com/assets/a7a9dcbc-6a6b-46ba-baff-08e547552d6a.svg");
+  padding: 23.84px 106.32px 4.82px 59.79px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  position: absolute;
+  right: 3.68px;
+  top: 2.16px;
+}
+.flex-wrapper-seven {
+  margin-bottom: 81px;
+  padding: 0 0 0 31px;
+  display: flex;
+  align-items: flex-start;
+}
+.home {
+  width: 11.47%;
+  height: 86.96%;
+  font-family: "Source Sans Pro";
+  font-size: 16px;
+  font-weight: 400;
+  line-height: normal;
+  color: var(--black);
+  margin-top: 3px;
+  margin-right: 107px;
+}
+.my-skills {
+  width: 17.06%;
+  height: 86.96%;
+  font-family: "Source Sans Pro";
+  font-size: 16px;
+  font-weight: 400;
+  line-height: normal;
+  color: var(--black);
+  margin-right: 110px;
+}
+.contacts {
+  width: 16.76%;
+  height: 86.96%;
+  font-family: "Source Sans Pro";
+  font-size: 16px;
+  font-weight: 400;
+  line-height: normal;
+  color: var(--black);
+  margin-top: 3px;
+}
+.serik-ulan {
+  height: 8.27%;
+  width: 67.65%;
+  color: var(--black);
+  display: flex;
+  margin-left: 3px;
+  font-family: var(--m-plus-1-48-bold-family);
+  font-size: var(--m-plus-1-48-bold-size);
+  font-weight: var(--m-plus-1-48-bold-weight);
+  line-height: var(--m-plus-1-48-bold-line-height);
+}
+.just-a-student {
+  height: 7.09%;
+  width: 60.38%;
+  color: var(--black);
+  display: flex;
+  margin-bottom: 503px;
+  margin-left: 3px;
+  font-family: var(--m-plus-1-24-regular-family);
+  font-size: var(--m-plus-1-24-regular-size);
+  font-weight: var(--m-plus-1-24-regular-weight);
+  line-height: var(--m-plus-1-24-regular-line-height);
+}
+.arrow-2 {
+  width: 9.7%;
+  margin-bottom: 18px;
+}
+.scroll-down {
+  width: 21.29%;
+  height: 2.62%;
+  font-family: "Source Sans Pro";
+  font-size: 16px;
+  font-weight: 400;
+  line-height: normal;
+  color: var(--black);
+  margin-left: 23px;
+}
+.flex-wrapper-five {
+  background-size: 100% 100%;
+  background-position: center;
+  background-image: url("https://static.overlay-tech.com/assets/b95083a3-cc4c-40a0-b6e0-5f67c7416b2d.png");
+  padding: 507px 98.12px 134.01px 513px;
+  position: relative;
+}
+.clip0-115-873 {
+  width: 156.88px;
+  height: 152.99px;
+}
+.flex-wrapper-six {
+  background-size: 100% 100%;
+  background-position: center;
+  background-image: url("https://static.overlay-tech.com/assets/365d17e9-31ca-452a-9b31-3571755a2c67.svg");
+  padding: 40px 359px 159px 121px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  position: absolute;
+  left: 6px;
+  bottom: 30px;
+}
+.frame-two {
+  width: 3.04%;
+  height: 9.45%;
+  margin-left: 765px;
+}
+.contacts-two {
+  width: 18%;
+  height: 19.69%;
+  font-family: "Source Sans Pro";
+  font-size: 40px;
+  font-weight: 400;
+  line-height: normal;
+  color: var(--black);
+  margin-bottom: 36px;
+}
+.telegram-inst-lik-gmail {
+  width: 43.22%;
+  height: 56.69%;
+  font-family: "Ubuntu";
+  font-size: 24px;
+  font-weight: 400;
+  line-height: 48px;
+  color: var(--black);
 }
