@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="UTF-8" />
+</head>
+<body>
+<div>
+  <p>Welcome, {{.name}}!</p>
+  <form method="POST" action="/form">     
+      <label>Your Name</label><input name="name" type="text" placeholder="Enter your name" />
+      <label>Your Address</label><input name="address" type="text" placeholder="Enter your address" />
+      <label>Your Email</label><input name="email" type="email" placeholder="Enter your email address" />
+      <label>Your Phone Number</label><input name="phone" type="tel" placeholder="Enter your phone number" />
+      <input type="submit" value="Submit" />
+  </form>
+</div>
+</body>
+</html>
